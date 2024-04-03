@@ -9,7 +9,7 @@ Insira aqui um resumo do projeto que será construído. Tente apresentar uma jus
 
 > **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
 
-## Funcionalidades
+<!--## Funcionalidades
 
 Esse template foi inicialmente baseado no [template de ciência de dados do cookiecutter](https://drivendata.github.io/cookiecutter-data-science/), mas ao longo do tempo várias modificações foram sendo realizadas. Atualmente o template tem as seguintes características:
  - Utilização do arquivo `pyproject.toml` como centralizador de dependências;
@@ -17,6 +17,7 @@ Esse template foi inicialmente baseado no [template de ciência de dados do cook
  - Utilização de [jupyter notebooks](https://jupyter.org/) para arquivos de análise;
  - Documentação com o [mkdocs](https://www.mkdocs.org/) ([material design](https://squidfunk.github.io/mkdocs-material/) theme)
 
+-->
 ## Instruções
 
 ### Requisitos
