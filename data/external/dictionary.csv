@@ -1,0 +1,8 @@
+variavel,descricao,tipo,subtipo
+total_bill,"Valor total da conta do cliente, em dólares",quantitativa,continua
+tip,"Valor que o cliente deixou de gorjeta, em dólares",quantitativa,continua
+sex,Sexo do cliente que pagou a conta,qualitativa,nominal
+smoker,Indica se alguém na mesa do cliente é fumante ou não,qualitativa,nominal
+day,Dia da semana em que o cliente foi ao restaurante,qualitativa,ordinal
+time,Momento em que o cliente foi ao restaurante. Tem como base o tipo de refeição que ele consumiu,qualitativa,ordinal
+size,Número de pessoas na mesa do cliente,quantitativa,discreta
